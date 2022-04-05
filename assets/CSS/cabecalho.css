@@ -1,4 +1,5 @@
 header {
+   font-family: 'Inter', sans-serif;
    display: flex;
    justify-content: space-around;
    align-items: center;
@@ -15,4 +16,10 @@ header {
 
 .navbar_list_item {
    margin-right: 2em;
+}
+
+.navbar_list_item_link {
+   color: #667085;
+   text-decoration: none;
+   font-weight: 500;
 }
