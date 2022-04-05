@@ -1,0 +1,18 @@
+header {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   height: 80px;
+}
+
+.navbar {
+   flex-grow: .5;
+}
+
+.navbar_list {
+   display: flex;
+}
+
+.navbar_list_item {
+   margin-right: 2em;
+}
