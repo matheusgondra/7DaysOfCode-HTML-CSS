@@ -24,6 +24,10 @@ header {
    font-weight: 500;
 }
 
+.btn {
+   cursor: pointer;
+}
+
 .btn-entrar {
    font-family: inherit;
    color: #667085;
@@ -31,5 +35,17 @@ header {
    font-weight: 500;
    background-color: transparent;
    border: none;
-   cursor: pointer;
+}
+
+.btn-cadastrar {
+   font-family: inherit;
+   color: #FFF;
+   font-size: 1em;
+   font-weight: 500;
+   background-color: transparent;
+   border: none;
+   background-color: #8E2424;
+   border-radius: 8px;
+   padding: .625em 1.125em;
+   margin-left: 30px;
 }
