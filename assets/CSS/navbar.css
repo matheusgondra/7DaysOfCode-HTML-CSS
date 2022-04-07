@@ -1,4 +1,10 @@
-header {
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.navbar {
    font-family: 'Inter', sans-serif;
    display: flex;
    justify-content: space-around;
@@ -6,12 +12,10 @@ header {
    height: 80px;
 }
 
-.navbar {
-   flex-grow: .5;
-}
-
 .navbar_list {
    display: flex;
+   flex-grow: .25;
+   list-style: none;
 }
 
 .navbar_list_item {
