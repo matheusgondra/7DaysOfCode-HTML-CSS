@@ -1,6 +1,7 @@
 :root {
    --text-color: #667085;
    --main-color: #8E2424;
+   --font: 'Inter', sans-serif;
 }
 
 * {

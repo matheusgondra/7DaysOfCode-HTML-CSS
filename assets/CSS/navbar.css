@@ -1,5 +1,5 @@
 .navbar {
-   font-family: 'Inter', sans-serif;
+   font-family: var(--font);
    display: flex;
    justify-content: space-around;
    align-items: center;
