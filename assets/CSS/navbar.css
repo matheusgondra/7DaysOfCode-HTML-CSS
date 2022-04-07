@@ -1,5 +1,4 @@
 .navbar {
-   font-family: var(--font);
    display: flex;
    justify-content: space-around;
    align-items: center;
@@ -27,7 +26,6 @@
 }
 
 .btn-entrar {
-   font-family: inherit;
    color: var(--text-color);
    font-size: 1em;
    font-weight: 500;
@@ -36,7 +34,6 @@
 }
 
 .btn-cadastrar {
-   font-family: inherit;
    color: #FFF;
    font-size: 1em;
    font-weight: 500;

@@ -1,0 +1,32 @@
+.metrics {
+   display: flex;
+   gap: 1.5em;
+   margin: 107px 5em;
+}
+
+.metrics_item {
+   display: flex;
+   flex-direction: column;
+}
+
+.metrics_item_title {
+   color: var(--main-color);
+   font-weight: 600;
+   font-size: 60px;
+   letter-spacing: -0.02rem;
+   line-height: 72px;
+}
+
+.metrics_item_subtitle {
+   font-weight: 500;
+   font-size: 1.125em;
+   line-height: 28px;
+   margin-bottom: 8px;
+}
+
+.metrics_item_content {
+   font-size: 1em;
+   color: var(--text-color);
+   font-weight: 400;
+   line-height: 1.5em;
+}
