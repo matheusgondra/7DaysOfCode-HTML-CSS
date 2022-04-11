@@ -69,3 +69,18 @@
    font-weight: 500;
    margin-right: 1.5em;
 }
+
+@media (max-width: 425px) {
+   .vacancy_title {
+      font-size: 2em;
+   }
+
+   .vacancy_content {
+      text-align: center;
+      font-size: 1.05em;
+   }
+
+   .vacancy_job {
+      width: 70%;
+   }
+}
